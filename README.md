@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @matiollipt
+- 👋 Hi, I’m Cleverson Matiolli
 - 👀 I’m interested in machine learning for biology
 - 🌱 I’m currently learning machine learning, python 3, how to life a good life
 - 💞️ I’m looking to collaborate on machine learning for biology, or any other interesting aspect of life
