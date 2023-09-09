@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Cleverson
-- 👀 I’m interested in machine learning for biology
-- 🌱 I’m currently learning machine learning, python 3, how to life a good life
-- 💞️ I’m looking to collaborate on machine learning for biology, or any other interesting aspect of life
-- 📫 How to reach me on twitter: @tuttyclever; instagram: cmatiolli
+- 👀 I’m interested in Data Science because data is beautiful
+- 🌱 I’m currently learning Graph Theory and Transformers
+- 💞️ I’m looking for collaborations to address big questions of life (Give me some data!)
+- 📫 How to reach me on linkedin: cleversonmatiolli; twitter: @tuttyclever; instagram: cmatiolli
 
 <!---
 matiollipt/matiollipt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
