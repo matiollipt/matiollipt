@@ -32,6 +32,7 @@ With over a decade of experience at the intersection of molecular biology and da
 
 ## 🔍 Current Focus
 
+- 📊 Analyzing biomanufacturing time series data
 - 📊 Developing heterogeneous graph neural networks for protein function prediction (and for other cool applications as well...)
 - 🧠 Exploring advanced applications of Transformers in biological sequence analysis
 - 🌐 Integrating multi-omics data for comprehensive biological insights
