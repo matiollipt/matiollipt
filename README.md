@@ -11,7 +11,7 @@
 With over a decade of experience at the intersection of molecular biology and data science, I specialize in leveraging advanced machine learning techniques to unlock insights from complex biological data. My work focuses on developing innovative solutions for pressing challenges in bioinformatics and computational biology.
 
 - 🔬 PhD in Genetics and Molecular Biology
-- 💻 ML-Big Data Specialist, UNICAMP
+- 💻 Specialist in Machine Learning and Big Data
 - 🧬 Expert in bioinformatics and computational biology
 - 🌐 Experienced in multi-omics data integration and analysis
 
