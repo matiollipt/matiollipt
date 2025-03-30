@@ -1,9 +1,25 @@
-# Dr. Cleverson Matiolli, PhD
+# ML/DS Scientist | MolBio | Multi-Omics
+## Cleverson Matiolli, PhD
 
-## Data Scientist | Molecular Biologist | Machine Learning Expert
+## Research Interests
+
+1. Plant Biotechnology and Multi-omics Integration for Elucidating Defense and Stress-Response Mechanisms  
+2. Molecular Genetics of Plant–Microbe Interactions and Signal Transduction  
+3. Advanced Data Science, Machine Learning, and Predictive Modeling Applied to Genomics and Systems Biology  
+4. Exploratory Data Analysis and Innovative Data Visualization Techniques for High-Throughput Biological Data  
+5. Integration of Large Language Models and Knowledge Graphs in Bioinformatics Research
+
+## Skillset
+
+1. Expertise in Plant Molecular Biology Techniques (e.g., PCR, RT-PCR, cloning, gene expression analysis)  
+2. Proficient in Multi-omics Data Generation, Integration, and Analysis (transcriptomics, proteomics, metabolomics)  
+3. Strong Background in Molecular Genetics and Plant–Microbe Interaction Studies  
+4. Advanced Skills in Bioinformatics, Statistical Analysis, and Machine Learning Applications  
+5. Competence in Experimental Design, High-throughput Data Analysis, and Computational Modeling  
+6. Excellent Scientific Writing, Research Communication, and Grant Proposal Development
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cleversonmatiolli)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/matiollipt)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/clever-dspy)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cleverds)
 
 ## Professional Overview
