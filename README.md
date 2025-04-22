@@ -1,76 +1,63 @@
-# ML/DS Scientist | MolBio | Multi-Omics
-## Cleverson Matiolli, PhD
+# Cleverson Matiolli, Ph.D.
 
-## Research Interests
+**Machine Learning Scientist | Data Scientist | Molecular Biologist**  
+📧 [matiolli@gmail.com](mailto:matiolli@gmail.com)  
 
-1. Plant Biotechnology and Multi-omics Integration for Elucidating Defense and Stress-Response Mechanisms  
-2. Molecular Genetics of Plant–Microbe Interactions and Signal Transduction  
-3. Advanced Data Science, Machine Learning, and Predictive Modeling Applied to Genomics and Systems Biology  
-4. Exploratory Data Analysis and Innovative Data Visualization Techniques for High-Throughput Biological Data  
-5. Integration of Large Language Models and Knowledge Graphs in Bioinformatics Research
+---
 
-## Skillset
+## TL;DR
 
-1. Expertise in Plant Molecular Biology Techniques (e.g., PCR, RT-PCR, cloning, gene expression analysis)  
-2. Proficient in Multi-omics Data Generation, Integration, and Analysis (transcriptomics, proteomics, metabolomics)  
-3. Strong Background in Molecular Genetics and Plant–Microbe Interaction Studies  
-4. Advanced Skills in Bioinformatics, Statistical Analysis, and Machine Learning Applications  
-5. Competence in Experimental Design, High-throughput Data Analysis, and Computational Modeling  
-6. Excellent Scientific Writing, Research Communication, and Grant Proposal Development
+My background bridges empirical research and computational modeling - aligned with scientific or business objectives - by combining scientific rigor and practical solutions.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/cleversonmatiolli)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/clever-dspy)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat&logo=Kaggle&logoColor=white)](https://www.kaggle.com/cleverds)
+---
 
-## Professional Overview
+## Selected Projects
 
-With over a decade of experience at the intersection of molecular biology and data science, I specialize in leveraging advanced machine learning techniques to unlock insights from complex biological data. My work focuses on developing innovative solutions for pressing challenges in bioinformatics and computational biology.
+- **Fake News Detection Pipeline:**  
+  NLP pipeline with TF-IDF and transformer-based classifiers; applied XAI for decision logic visualization  
+  ➡️ *GitHub available*
 
-- 🔬 PhD in Genetics and Molecular Biology
-- 💻 Specialist in Machine Learning and Big Data
-- 🧬 Expert in bioinformatics and computational biology
-- 🌐 Experienced in multi-omics data integration and analysis
+- **graphletGO:**  
+  GNN model for protein function prediction using PyTorch Geometric; improved annotation accuracy  
+  ➡️ GitHub (data exploration only): [https://github.com/matiollipt/GO-graph-EDA](https://github.com/matiollipt/GO-graph-EDA)
 
-## 🛠️ Tech Stack
+---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=R&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white)
-![PyG](https://img.shields.io/badge/-PyG-3C2179?style=flat&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=MySQL&logoColor=white)
-![RDKit](https://img.shields.io/badge/-RDKit-990000?style=flat&logo=moleculer&logoColor=white)
-![Biopython](https://img.shields.io/badge/-Biopython-008000?style=flat&logo=python&logoColor=white)
-![NetworkX](https://img.shields.io/badge/-NetworkX-FFA500?style=flat&logo=graph&logoColor=white)
-![Knowledge Graphs](https://img.shields.io/badge/-Knowledge%20Graphs-4B0082?style=flat&logo=neo4j&logoColor=white)
+## Core Competencies
 
-## 🔍 Current Focus
+- **Statistical Analysis:** Hypothesis testing, time-series analysis, multivariate analysis  
+- **Machine Learning & Predictive Modeling:** Supervised/unsupervised learning, model tuning, evaluation, interpretability  
+- **Programming & Tools:** Python (Pandas, NumPy, scikit-learn, TensorFlow, PyTorch), R (tidyverse, caret), SQL, Git, Linux  
+- **Data Engineering:** ETL pipelines, data extraction and transformation from diverse sources, ensuring data integrity and security  
+- **Collaboration & Communication:** Cross-functional teamwork, stakeholder reporting, agile methodologies, fluent in English  
 
-- 📊 Analyzing biomanufacturing time series data
-- 📊 Developing heterogeneous graph neural networks for protein function prediction (and for other cool applications as well...)
-- 🧠 Exploring advanced applications of Transformers in biological sequence analysis
-- 🌐 Integrating multi-omics data for comprehensive biological insights
+---
 
-## 🏆 Key Projects
+## Professional Experience
 
-- **PROT2GO HGNN**: A heterogeneous graph neural network for protein function prediction using Gene Ontology annotations
-- **Custom Image Processing**: Developed scripts for plant phenotyping and root analysis
-- **Multi-omics Data Integration**: Built pipelines for integrating various types of biological data
+### Freelance Data Scientist & ML Specialist
 
-## 🌱 Advancing Agro and Biotech Through Data Science
+- Developed and deployed predictive models for patient outcome stratification using transcriptomic data, enabling precision oncology insights  
+- Designed regression models to optimize 3D-printed bone implant fabrication by integrating mechanical and biological properties  
+- Authored thought leadership article on deep learning, graph theory, and multi-omics for molecular biology  
 
-My work lies at the crucial intersection of data science, agriculture, and biotechnology. I am passionate about harnessing the power of machine learning and bioinformatics to drive innovation in these vital sectors:
+### Research Scientist | ITQB-NOVA
 
-- **Crop Improvement**: Utilizing genomic data and machine learning to accelerate crop breeding programs and enhance traits such as yield, disease resistance, and climate adaptability.
-- **Precision Agriculture**: Developing predictive models for optimizing resource use, pest management, and harvest timing based on multi-source data integration.
-- **Biotech Innovations**: Applying graph neural networks and knowledge graphs to uncover novel protein functions and potential targets for biotechnological applications.
-- **Sustainable Solutions**: Leveraging data-driven approaches to support sustainable farming practices and reduce environmental impact in agricultural systems.
+- Implemented an image-based phenotyping application in Python/OpenCV to automate plant root quantification, improving throughput by ~80%  
+- Coordinated multi-omics data integration (transcriptomics, proteomics, metabolomics), identifying regulatory networks in rice stress resilience  
+- Built protein–protein interaction maps revealing signaling cascades, and ensured reproducible research practices  
 
-I am committed to bridging the gap between cutting-edge data science techniques and real-world agricultural and biotechnological challenges. My goal is to contribute to a more sustainable, efficient, and productive future in these critical domains.
+### Research Scientist | UC Davis
 
-Let's connect and explore how we can push the boundaries of agro and biotech innovation through the power of data!
+- Managed academic-industry projects to evaluate biological additives for tomato crop improvement, designing field trials and statistical analysis protocols (company name).
+- Designed and set greenhouse and field experiments to assess the interaction of tomato and maize to evaluate the interaction of plant genetic background, microbiome and other environmental factors.
+- Implemented gene expression and hormone quantification pipelines to assess plant immune responses and environmental stress biomarkers.
+- Performed high-throughput yeast two-hybrid assays and built interaction datasets for protein-level insights into plant defense mechanisms. (ref)
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/cleversonmatiolli)
-- 🧪 [Kaggle](https://www.kaggle.com/cleverds)
+
+## Education
+
+- **Ph.D. in Genetics and Molecular Biology**  
+  *Unicamp Institute of Biology | 2012*  
+- **Specialist in ML & Big Data**  
+    *Unicamp Institute of Computing | 2022*
