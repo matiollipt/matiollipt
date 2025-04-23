@@ -1,13 +1,15 @@
 # Cleverson Matiolli, Ph.D.
 
 **Machine Learning Scientist | Data Scientist | Molecular Biologist**  
-📧 [matiolli@gmail.com](mailto:matiolli@gmail.com)  
 
 ---
-
 ## TL;DR
 
-My background bridges empirical research and computational modeling - aligned with scientific or business objectives - by combining scientific rigor and practical solutions.
+▶️ I’m a Machine Learning Scientist with a background in molecular biology and applied data science.
+
+▶️ I design end-to-end analytical pipelines—from hypothesis-driven experiments to advanced modeling and reproducible analysis.
+
+▶️ I’m especially motivated by cross-functional projects where domain expertise and machine learning come together to deliver real-world impact in research and development.
 
 ---
 
