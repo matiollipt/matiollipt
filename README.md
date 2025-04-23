@@ -3,7 +3,7 @@
 **Machine Learning Scientist | Data Scientist | Molecular Biologist**  
 
 ---
-## TL;DR
+## <img src="no_infinity/no_infinity_emoji_128x128.svg" alt="'∞'" width="32" height="32"> TL;DR
 
 ▶️ I’m a Machine Learning Scientist with a background in molecular biology and applied data science.
 
