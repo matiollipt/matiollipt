@@ -51,10 +51,10 @@
 
 ### Research Scientist | UC Davis
 
-- Managed academic-industry projects to evaluate biological additives for tomato crop improvement, designing field trials and statistical analysis protocols (company name).
+- Managed academic-industry projects to evaluate biological additives for tomato crop improvement, designing field trials and statistical analysis protocols.
 - Designed and set greenhouse and field experiments to assess the interaction of tomato and maize to evaluate the interaction of plant genetic background, microbiome and other environmental factors.
 - Implemented gene expression and hormone quantification pipelines to assess plant immune responses and environmental stress biomarkers.
-- Performed high-throughput yeast two-hybrid assays and built interaction datasets for protein-level insights into plant defense mechanisms. (ref)
+- Performed high-throughput yeast two-hybrid assays and built interaction datasets for protein-level insights into plant defense mechanisms. (Scholar)
 
 
 ## Education
