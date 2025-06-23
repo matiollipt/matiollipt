@@ -41,7 +41,7 @@
 
 ---
 
-## 🌐 Links  
+## 🌐 Links   
 [Website](https://matiollipt.github.io) · [GitHub](https://github.com/matiollipt) · [LinkedIn](https://linkedin.com/in/cleversonmatiolli) · [Medium](https://medium.com/@cleversonmatiolli)
 
 ---
