@@ -1,8 +1,10 @@
 # Cleverson Matiolli, Ph.D.
 
 **Data Scientist · Molecular Biologist · ML/AI Consultant**
+
 Lisbon, Portugal · Campinas, Brazil
-📧 [Email](mailto:matiolli@gmail.com) · 🔗 [LinkedIn](https://linkedin.com/in/cleversonmatiolli) · 🌐 [Portfolio](https://matiollipt.github.io)
+
+📧 [Email](mailto:matiolli@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/cleversonmatiolli) | 🌐 [Portfolio](https://matiollipt.github.io)
 
 ---
 
@@ -13,9 +15,10 @@ Ph.D. in Genetics & Molecular Biology with specialization in Big Data and Machin
 * 15+ peer-reviewed publications (h-index 12)
 * International consulting across academia and industry (Brazil, USA, Portugal)
 * Experience in:
-  * securing competitive funding
+  * delivering solutions to my clients (medicine, engineering, publishing)
+  * securing national and international competitive funding
   * coordinating interdisciplinary projects
-  * mentoring MSc/PhD students and training personel
+  * mentoring MSc/PhD students and training personnel
 
 ---
 
