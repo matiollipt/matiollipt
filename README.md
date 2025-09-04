@@ -55,7 +55,7 @@ Ph.D. in Genetics & Molecular Biology with specialization in Big Data and Machin
 * *Frontiers in Plant Science* (2022): Post-translational modifications and carbon metabolism (Review)
 * *Planta* (2024): SUMOylation of rice DELLA SLR1 enhances yield under salt stress
 
-[Full list → Google Scholar](https://scholar.google.com/)
+[Full list → Google Scholar]([https://scholar.google.com/](https://scholar.google.com/citations?user=jk2GJNQAAAAJ&hl=en&authuser=2))
 
 ---
 
