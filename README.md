@@ -1,6 +1,6 @@
 # Cleverson Matiolli, Ph.D.
 
-**Data Scientist · Molecular Biologist · ML/AI Consultant**
+**Data Scientist · Bioinformatics · ML/AI Consultant**
 
 Lisbon, Portugal · Campinas, Brazil
 
