@@ -2,7 +2,7 @@
 
 **Data Scientist · Bioinformatics · ML/AI Consultant**
 
-Lisbon, Portugal · Campinas, Brazil
+Campinas, Brazil
 
 📧 [Email](mailto:matiolli@gmail.com) | 🔗 [LinkedIn](https://linkedin.com/in/cleversonmatiolli) | 🌐 [Portfolio](https://matiollipt.github.io)
 
