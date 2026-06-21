@@ -11,7 +11,9 @@ I build data products at the intersection of **life sciences, machine learning, 
 
 ## Current Work
 
-**Independent Data Scientist & AI/ML Engineer** *(2024 – present)*
+**Founder & Lead Data Scientist — [AidBio](https://aidbio-ai.github.io/)** *(2024 – present)*
+
+> End-to-end data science, ML, and agentic AI workflows for agritech, biotech, and applied R&D teams.
 
 - **AidWeather / Agrilyzer** — Python client for NASA POWER climate data with ETL, agroclimatic feature engineering, and geospatial analytics for precision agriculture
 - **AidGSEA** — R workflows for GEO RNA-seq studies: metadata validation, differential expression (DESeq2, edgeR, limma), and pathway analysis (GSEA)
