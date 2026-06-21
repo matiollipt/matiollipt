@@ -1,7 +1,7 @@
 # Cleverson Carlos Matiolli, Ph.D.
 
 **Data Scientist · AI/ML Engineer · Computational Biologist**  
-Paulínia, SP, Brazil &nbsp;|&nbsp; matiolli@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/cleversonmatiolli/)
+Paulínia, SP, Brazil &nbsp;|&nbsp; clever.dspy@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/cleversonmatiolli/)
 
 ---
 
