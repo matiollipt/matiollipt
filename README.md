@@ -1,11 +1,11 @@
 # Cleverson Carlos Matiolli, Ph.D.
 
-**Data Scientist · AI/ML Engineer · Computational Biologist**  
-Paulínia, SP, Brazil &nbsp;|&nbsp; clever.dspy@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/cleversonmatiolli/)
+**Computational Biologist | Life Sciences AI/ML Engineer | Senior Data Scientist**  
+[clever.dspy@gmail.com](mailto:clever.dspy@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cleversonmatiolli/) · [ORCID](https://orcid.org/0000-0001-8185-7628) · [Google Scholar](https://scholar.google.com/citations?user=jk2GJNQAAAAJ&hl=en) · [GitHub](https://github.com/matiollipt/) · [Ciência Vitae](https://www.cienciavitae.pt/portal/en/841A-22EA-DFF0)
 
 ---
 
-I build data products at the intersection of **life sciences, machine learning, and software engineering** — from RNA-seq pipelines and graph neural networks to LLM-enabled applications and geospatial climate tools.
+I build **AI-enabled research software** at the intersection of life sciences, machine learning, and software engineering: LLM-enabled agricultural analytics, and geospatial climate tools, RNA-seq and GO/GSEA workflows, graph neural networks for protein interaction/function inference.
 
 ---
 
@@ -13,12 +13,15 @@ I build data products at the intersection of **life sciences, machine learning, 
 
 **Founder & Lead Data Scientist — [AidBio](https://aidbio-ai.github.io/)** *(2024 – present)*
 
-> End-to-end data science, ML, and agentic AI workflows for agritech, biotech, and applied R&D teams.
+> Modular scientific software for Agriculture 3.0, molecular biology, computational biology, and applied R&D teams.
 
-- **AidWeather / Agrilyzer** — Python client for NASA POWER climate data with ETL, agroclimatic feature engineering, and geospatial analytics for precision agriculture
+- **AidWeather** — Python package for fetching, validating, caching, and pre-processing NASA POWER climate data
+- **AidViz** — Visualization package for NASA POWER, agroclimatic, and farm datasets
+- **AidFarm** — LLM-enabled workflow for visual and text interpretation, reasoning, and reporting in agricultural analytics
 - **AidGSEA** — R workflows for GEO RNA-seq studies: metadata validation, differential expression (DESeq2, edgeR, limma), and pathway analysis (GSEA)
-- **Prot2GO / graphletGO** — GNN-based protein function prediction using PPI networks, sequence embeddings, and Gene Ontology labels (PyTorch Geometric)
-- **SynViz / AidViz** — Real-time FFT audio visualiser (Electron + TypeScript) and reusable scientific visualisation components (Python)
+- **Aid2GO** — Graph-learning workflows for protein-function prediction using biological networks, sequence features, embeddings, and Gene Ontology labels
+- **gPPIpred** — Published GNN- and attention-based PPI predictor using protein molecular graphs; DOI: [10.17912/micropub.biology.001796](https://doi.org/10.17912/micropub.biology.001796); code: [Hugging Face](https://huggingface.co/datasets/1143Joana/gPPIpred_code/tree/main/gPPIpred/)
+- **SynViz** — Independent project recreating synesthetic sound-to-color and sound-to-touch visualization from real-time audio analysis
 
 ---
 
@@ -37,10 +40,11 @@ I build data products at the intersection of **life sciences, machine learning, 
 
 ## Selected Publications
 
-> 15+ peer-reviewed publications. Full list on [Google Scholar](https://scholar.google.com) and [ResearchGate](https://www.researchgate.net) — search **Cleverson C. Matiolli**.
+> 17 peer-reviewed publications. Full list on [Google Scholar](https://scholar.google.com) and [ResearchGate](https://www.researchgate.net) — search **Cleverson C. Matiolli**.
 
 | Year | Title | Journal |
 |:---:|---|---|
+| 2026 | gPPIpred: A User-Friendly PPI Predictor Based on Protein Molecular Graphs. **Matiolli CC**\*, Marques J\*, Abreu IA. (\*equal contribution). [DOI](https://doi.org/10.17912/micropub.biology.001796) | *microPublication Biology* |
 | 2025 | Regulation of abscisic acid receptor mRNA stability: involvement of microRNA5628 in PYL6 transcript decay. Vieira JGP, Duarte GT, Barrera-Rojas CH, **Matiolli CC** et al. | *Plant Physiology* |
 | 2024 | SUMOylation of rice DELLA protein SLR1 modulates transcriptional responses and improves yield under salt stress. **Matiolli CC** et al. | *Planta* |
 | 2022 | Turning the Knobs: The Impact of Post-translational Modifications on Carbon Metabolism. **Matiolli CC** et al. | *Frontiers in Plant Science* |
